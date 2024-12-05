@@ -2,6 +2,7 @@
 
 1. [Einführung: introduction](./introduction)
 2. [Das CSS Box-Modell: border-box](./border-box)
+3. [Bilder mit `<img>`, Links mit `<a>` und css-Klassen](./imgslinks)
 
 # Validierung
 
